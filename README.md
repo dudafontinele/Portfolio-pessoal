@@ -4,8 +4,6 @@
 
 ## Descrição
 
-## Descrição
-
 ## Introdução
 
 ## Funcionalidades 
