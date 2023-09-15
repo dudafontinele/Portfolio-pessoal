@@ -1,4 +1,3 @@
-# Índice 
 
 * [Projeto escrita do README](#projeto-escrita-do-readme)
 * [ Descrição](#descri%C3%A7%C3%A3o)
@@ -6,7 +5,7 @@
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Fontes utilizadas](#fontes-utilizadas)
 
-# Projeto escrita do README
+# Capa do projeto
 
 ![Capa do projeto](img/capa.png)
 
